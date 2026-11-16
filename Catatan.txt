@@ -1,0 +1,32 @@
+Smart Canteen
+=============
+Waktu istirahat di sekolah yang terbatas (15–30 menit) sering menyebabkan antrean panjang dan penumpukan siswa di area kantin. Akibatnya, banyak siswa terlambat masuk jam pelajaran berikutnya dan penjual kantin kewalahan mencatat pesanan secara manual.
+
+Anda ditugaskan untuk merancang dan membangun aplikasi mobile Android bernama Smart Canteen yang menghubungkan Siswa dan Penjual Kantin secara real-time. Siswa dapat memesan makanan/minuman dari ruang kelas sebelum jam istirahat, memantau status pesanan, dan menerima notifikasi otomatis (push notification) saat pesanan telah siap diambil.
+
+Spesifikasi Teknis Wajib:
+1. Framework Mobile: Flutter .
+2. Autentikasi: Firebase Authentication untuk Siswa dan Penjual.
+3. Database Real-Time: Cloud Firestore. 
+4. Push Notification: Firebase Cloud Messaging (FCM)
+5. Desain Antarmuka: Material 3, responsif.
+6. File gambar : ImgBB
+
+
+
+budisetiawan@gmail.com	>  budi123 	> pedagang
+aguswinaryo@gmail.com	>  agus123	> siswa
+supri@gmail.com		>  supri123	> siswa
+
+
+
+
+
+
+
+
+
+
+
+https://share.gemini.google/R57snjoe7Bab
+https://share.gemini.google/nc4BdTi2ITAZ
