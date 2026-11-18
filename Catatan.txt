@@ -13,7 +13,7 @@ Spesifikasi Teknis Wajib:
 6. File gambar : ImgBB
 
 
-
+Contoh user
 budisetiawan@gmail.com	>  budi123 	> pedagang
 aguswinaryo@gmail.com	>  agus123	> siswa
 supri@gmail.com		>  supri123	> siswa
